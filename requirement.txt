@@ -1,0 +1,13 @@
+numpy
+pandas
+radis
+ipykernel
+redisvl
+sentence-transformers
+langchain
+langchain-text-splitters
+langchain_community
+pypdf
+groq
+python-dotenv
+ipywidgets
